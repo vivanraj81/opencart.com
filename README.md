@@ -33,5 +33,3 @@ Review the documents in sequence to understand the testing process:
 3. **Results & Bug Reports:** Finally, review the execution results and bug reports for insights on test outcomes.
 
 ---
-
-*For any queries or further clarifications, please contact the testing team.*
